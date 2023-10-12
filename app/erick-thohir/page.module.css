@@ -1,0 +1,94 @@
+
+.main_container {
+  /* width: 100vw;
+  height: 100vh; */
+  background-color: #fff;
+}
+
+.navbar {
+  /* background-color: #A1C3F580; */
+  padding: 10px 10px 0;
+}
+
+.peruri_logo {
+  width: 130px;
+  height: auto;
+}
+
+.bumn_logo {
+  width: 130px;
+  height: auto;
+}
+
+.tree_image_container {
+  /* background-color: #A1C3F580; */
+  position: relative;
+  top: 3rem;
+}
+
+.tree_img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  /* position: relative; */
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.content_container {
+  background-color: #167d3f;
+  /* height: 100%; */
+  border-radius: 30px 30px 0 0;
+  padding: 2.5rem 2.2rem 1rem;
+  color: #efefef;
+}
+
+.title_latin_container {
+  margin-top: 2.7rem;
+  color: #d5d37c;
+}
+
+.title_latin_container h1 {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #d5d37c;
+  /* opacity: 90%; */
+}
+
+.title_latin_container em {
+  font-weight: 500;
+  font-size: 1rem;
+  /* color: #efefef; */
+  /* opacity: 70%; */
+}
+
+.title_line {
+  border-color: #d5d37c;
+  border-width: 3px;
+  border-radius: 5px;
+}
+
+.person_identity_container {
+  font-size: .9rem;
+  margin-top: 0.2rem;
+}
+
+.bold_text {
+  font-weight: 600;
+}
+
+.think_text {
+  font-weight: 200;
+}
+
+.title_description_container {
+  margin-top: 0.8rem;
+  text-align: start;
+}
+
+.title_description_container p {
+  font-size: .9rem;
+  /* font-weight: 500; */
+}
