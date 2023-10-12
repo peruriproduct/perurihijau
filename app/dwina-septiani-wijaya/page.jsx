@@ -1,8 +1,8 @@
 import React from "react";
 import Image from "next/image";
-import sawo_kecik from "public/sawo_kecik_tree.jpg";
-import PeruriLogo from "/public/peruri_logo.png";
-import BUMNLogo from "/public/bumn_logo.png";
+import sawo_kecik from "../../public/sawo_kecik_tree.jpg";
+import PeruriLogo from "../../public/peruri_logo.png";
+import BUMNLogo from "../../public/bumn_logo.png";
 import { BsFillPersonFill } from "react-icons/bs";
 import { FaCalendarAlt } from "react-icons/fa";
 import { IoLocationSharp } from "react-icons/io5";
