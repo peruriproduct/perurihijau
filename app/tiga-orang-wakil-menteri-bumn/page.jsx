@@ -46,7 +46,7 @@ function TigaOrangWakilMenteriBumn() {
             <BsFillPersonFill className={`mt-1`}></BsFillPersonFill>
             <span>
               Penanam &thinsp;<span className={`${styles.bold_text}`}>:</span>{" "}
-              <span className={`${styles.bold_text}`}>Kartika Wirjoatmodjo</span>
+              <span className={`${styles.bold_text}`}>Kartiko Wirjoatmodjo</span>
               <br />
               &emsp; &emsp; &emsp; &ensp; &ensp; &ensp;
               <span className={`${styles.think_text}`}>Wakil Menteri BUMN I</span>
